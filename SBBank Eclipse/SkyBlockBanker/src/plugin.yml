@@ -1,0 +1,14 @@
+main: com.gavingogaming.skyblockbanker.SBBanker
+name: HylandiaSBBanker
+version: v1.0.0
+api-version: 1.13
+depend: [ProtocolLib, Vault]
+author: GavinGoGaming
+commands:
+  #sbbank:
+  bank:
+  deposit:
+  withdraw:
+  balance:
+  start:
+
